@@ -1,0 +1,22 @@
+.Order{
+    border:1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    margin: 15px auto;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 80%;
+    align-content: center;
+}
+
+.Order button{
+    border:1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    background-color: white;
+    outline: none;
+    float: right;
+    display: block
+}
+
+.Order button:hover{
+    background-color: #ccc
+}
